@@ -1,0 +1,801 @@
+customer_id,name,age,gender,city,income,education,satisfaction_level,signup_date,last_purchase_date
+1001,Karan,65,M,Delhi,61000,High School,Low,,2024-06-01
+1002,Aadhya,35,FEMALE,Indore,37500,Bachelor's,Medium,16/03/2020,
+1003,Shaurya,20,M,Nagpur,45000,PhD,Medium,20/06/2022,2024-12-22
+CUST-1004A,Aryan,24,M,Kolkata,60500,Master's,Medium,2020-06-30,25-06-2023
+1005,Dhruv,21,male,Ahmedabad,42000,PhD,Low,07/03/2022,2024/05/26
+1006,Myra,65,female,Hyderabad,47000,PhD,Medium,2019/10/11,
+CUST-1007A,Raghav,56,male,Delhi,74000,PhD,High,2019-01-24,03/07/2024
+1008,Kian,18,M,Nagpur,46000,Bachelor's,Low,03-09-2020,2023-06-15
+1009,Veer,37,Male,Ahmedabad,,High School,Medium,07-04-2023,
+1010,Zara,45,F,Ahmedabad,39500,Bachelor's,Medium,23/08/2022,2024/06/13
+1011,Aarav,32,M,Jaipur,46500,High School,Low,26-05-2019,12-05-2024
+1012,Aadhya,44,FEMALE,Ahmedabad,900.0,PhD,High,2022-08-31,
+1013,Aadhya,52,Female,Surat,40500,PhD,Low,2023-10-31,
+1014,Mahi,33,Female,Bangalore,54500,PhD,Low,10/03/2021,10/04/2024
+1015,Ananya,31,FEMALE,Mumbai,53000,Master's,High,13-10-2023,
+1016,Chhavi,33,Female,Kolkata,19000,Bachelor's,Low,08/05/2021,29/07/2023
+1017,Reyansh,22,M,Mumbai,29500,High School,Low,29/09/2019,08/09/2023
+1018,Shaurya,59,M,Hyderabad,,Master's,Low,03/10/2019,
+1019,Sara,63,F,Chennai,41500,Master's,Medium,2023-09-29,
+1020,Ishaan,58,Male,Pune,40000,PhD,Low,14-12-2023,14-01-2024
+1021,Uday,20,M,Kochi,48000,High School,High,12-04-2021,31-08-2023
+1022,Diya,39,FEMALE,Indore,28000,Bachelor's,High,2023-11-22,16-08-2023
+1023,Samar,32,M,Ahmedabad,,Master's,Low,25/07/2020,14/02/2024
+1024,Aditya,34,M,Mumbai,500000,Master's,High,26-03-2022,2024/12/26
+CUST-1025A,Anika,60,female,Kochi,27000,High School,Medium,2022/09/27,14/12/2024
+1026,Dhruv,29,MALE,Jaipur,57500,High School,Low,02/04/2022,28-03-2024
+1027,Esha,50,female,Lucknow,35500,Bachelor's,Low,2019-10-29,
+1028,Pari,58,Female,Jaipur,41000,PhD,Low,2019-01-12,13-08-2023
+1029,Meera,25,FEMALE,Surat,29000,Master's,Medium,2023/01/13,2024/07/15
+1030,Pari,33,FEMALE,Chandigarh,41500,PhD,Medium,01/01/2023,10/12/2023
+1031,Karan,27,male,Nagpur,38500,Master's,Medium,2023/09/02,2024-08-21
+1032,Tara,,FEMALE,Chennai,34000,PhD,High,20-05-2022,2023/10/07
+1033,Manav,47,MALE,Kochi,48500,High School,High,2019-02-25,2023/05/19
+1034,Arjun,39,M,Indore,32000,PhD,Low,2023-03-15,25-12-2023
+1035,Hina,,Female,Ahmedabad,41500,,Low,23-08-2019,20/09/2023
+1036,Hina,37,Female,Delhi,48000,PhD,High,27-04-2022,
+1037,Ishita,20,Female,Chennai,70000,High School,Medium,,2024-05-16
+1038,Neil,29,MALE,Nagpur,37000,PhD,High,22-10-2020,30/03/2023
+1039,Krish,42,MALE,Chennai,,Bachelor's,Medium,28/11/2020,19/12/2024
+1040,Riya,44,female,Surat,33500,PhD,Medium,2019-02-05,19-02-2024
+1041,Aisha,45,FEMALE,Nagpur,47000,PhD,Medium,17-01-2023,02-07-2024
+1042,Gauri,51,F,Jaipur,25500,Bachelor's,Medium,29-01-2019,25/02/2023
+1043,Kabir,54,MALE,Pune,54500,Bachelor's,Medium,2021-09-05,2024/02/15
+C1044,Ananya,54,Female,Pune,416000,PhD,High,2021/12/06,29/03/2024
+1045,Shaurya,21,,Jaipur,16500,Bachelor's,Medium,18-11-2019,18-03-2023
+CUST-1046A,Dev,,MALE,Pune,36000,PhD,Low,02-06-2023,11-07-2024
+1047,Riya,200,female,Jaipur,42500,Master's,Medium,2022/12/04,2024/05/27
+1048,Gauri,34,FEMALE,Mumbai,1000.0,High School,High,2022-03-26,2023/06/29
+1049,Aditya,45,M,Lucknow,47000,PhD,Medium,03-08-2019,2024/12/11
+1050,Pari,34,Female,Chennai,50000,High School,High,22-04-2019,2024/09/29
+1051,Myra,36,female,Surat,44500,High School,High,24-12-2022,2023/01/15
+1052,Lavanya,25,,Lucknow,34500,Master's,Medium,2021/09/15,18-07-2024
+1053,Kritika,44,female,Chennai,30500,High School,Medium,2022/04/02,2024/04/02
+1054,Pari,30,FEMALE,Nagpur,28500,PhD,,2022/12/15,10-11-2024
+1055,Tanish,46,M,Delhi,49500,Bachelor's,High,2019/06/03,29/09/2023
+1056,Tanish,61,Male,Chandigarh,60500,PhD,Low,25/04/2020,2023/04/03
+1057,Pari,37,Female,Kochi,,High School,Medium,2020/05/15,04-07-2023
+1058,Chhavi,49,FEMALE,Kochi,48000,Master's,High,,22-10-2023
+C1059,Divya,62,F,Pune,31000,PhD,Low,17/03/2022,17/12/2024
+CUST-1060A,Myra,,FEMALE,Chandigarh,52000,High School,High,09-08-2020,27-12-2023
+1061,Divya,58,female,Lucknow,,High School,High,27/08/2020,29-06-2023
+1062,Zara,35,F,Chandigarh,43500,PhD,Medium,2020-11-24,19-03-2023
+1063,Tanish,41,MALE,Delhi,47000,,Medium,14/03/2023,15/10/2024
+1064,Shaurya,53,Male,Chennai,55500,High School,Medium,2020/09/10,
+CUST-1065A,Kabir,52,MALE,Bangalore,72500,PhD,High,2021-04-29,2024/09/22
+1066,Arjun,33,M,Chandigarh,59000,Master's,High,26/03/2021,2023/05/06
+1067,Vivaan,33,Male,Bangalore,50000,Bachelor's,Low,2019-10-30,29-05-2023
+1068,Esha,26,Female,Mumbai,46500,Master's,,2019/09/17,2023/03/07
+1069,Reyansh,57,Male,Mumbai,54000,Master's,Low,2021/09/07,2023/04/21
+1070,Ishaan,22,Male,Bangalore,71500,Master's,High,2021/07/18,
+1071,Kiara,32,female,Kolkata,36000,PhD,Medium,24/09/2022,2023/06/06
+C1072,Kiara,65,Female,Chennai,46000,Master's,Medium,2022/09/24,22/02/2023
+1073,Rohan,32,male,Chandigarh,960.0,Master's,Medium,2023-04-21,04/11/2024
+CUST-1074A,Veer,18,M,Bangalore,46500,PhD,High,2019-03-04,2023/08/09
+1075,Dev,54,M,Jaipur,320000,High School,Medium,2021/05/18,29/02/2024
+1076,Kiara,61,F,Lucknow,23500,Master's,,2022-05-12,
+1077,Parth,38,male,Delhi,,Bachelor's,High,21/10/2021,
+1078,Reyansh,38,Male,Jaipur,50000,PhD,Medium,,2024/09/24
+1079,Kiara,33,Female,Kolkata,58500,PhD,High,13-11-2020,
+1080,Lavanya,40,female,Nagpur,36000,Bachelor's,Low,22-12-2019,2024-11-02
+1081,Pari,55,FEMALE,Surat,58000,Master's,High,2021-06-19,08/10/2024
+1082,Zara,47,F,Surat,,Master's,Low,2021/11/04,2024-07-21
+1083,Navya,50,female,Bangalore,64500,Master's,Low,2019-12-20,2024/03/24
+1084,Anika,42,F,Kolkata,34500,High School,High,2020-11-06,31/01/2024
+1085,Navya,60,female,Bangalore,64500,PhD,High,2020/09/26,03-12-2023
+1086,Divya,50,Female,Chennai,,Bachelor's,Medium,09-10-2019,
+1087,Dhruv,57,Male,Bangalore,78500,Bachelor's,High,2019/12/06,
+1088,Chhavi,65,FEMALE,Indore,38500,Master's,Medium,02/02/2020,2024/08/07
+1089,Ansh,28,MALE,Chandigarh,67000,Master's,Medium,2022-02-09,2024-06-12
+1090,Pari,27,F,Chandigarh,16500,Bachelor's,Medium,2021-04-29,18-01-2024
+1091,Aarav,24,male,Chandigarh,58000,Bachelor's,Medium,25-08-2021,2024/04/25
+1092,Myra,27,Female,Hyderabad,51000,PhD,Medium,2019-09-07,2024/10/16
+C1093,Chhavi,58,FEMALE,Hyderabad,46500,Master's,High,2022/03/14,2024-11-15
+1094,Vihaan,20,Male,Lucknow,39000,High School,Low,2023-02-10,07-12-2023
+CUST-1095A,Jiya,47,female,Nagpur,15000,Bachelor's,Medium,,2023-07-24
+1096,Samar,34,MALE,Mumbai,47500,Master's,Low,10/11/2020,
+1097,Lavanya,39,FEMALE,Bangalore,64500,Master's,High,31-05-2021,2023-11-25
+C1098,Pari,45,F,Bangalore,77500,High School,Medium,09/06/2021,2023-02-28
+1099,Aarav,56,male,Lucknow,32000,,High,2021-02-23,2024/11/26
+1100,Krish,41,Male,Kolkata,32500,High School,,2021/11/26,01/05/2023
+1101,Chhavi,49,female,Ahmedabad,39000,PhD,High,29/06/2019,2024-12-27
+1102,Tanish,63,M,Kochi,55000,Master's,Low,11-06-2023,2024-05-20
+1103,Ishita,26,FEMALE,Jaipur,44000,PhD,High,2021/04/21,17-03-2023
+1104,Pari,40,FEMALE,Bangalore,53500,Bachelor's,Low,2023-11-14,14-06-2024
+1105,Rudra,51,male,Kochi,50000,Bachelor's,High,04/07/2022,06-04-2023
+1106,Esha,56,female,Chennai,49000,High School,High,26-06-2020,2024-03-02
+1107,Divya,48,F,Ahmedabad,56500,Master's,High,2021/06/19,28/07/2023
+1108,Manav,40,M,Kolkata,33500,High School,Medium,09-07-2021,
+C1109,Aadhya,28,FEMALE,Chandigarh,44000,Master's,Low,2021/11/20,2023/11/12
+CUST-1110A,Aadhya,40,FEMALE,Mumbai,,PhD,Low,01-06-2021,2024/01/10
+1111,Rudra,22,male,Kolkata,37500,Master's,High,01-09-2019,08/02/2024
+1112,Parth,56,M,Hyderabad,32500,,,2023/07/05,02-06-2023
+1113,Ira,65,female,Chandigarh,51500,PhD,Medium,04/02/2019,2023/04/23
+1114,Chhavi,59,Female,Indore,42000,Bachelor's,High,2021/12/09,
+1115,Arjun,,Male,Chennai,48000,Bachelor's,High,2023-11-23,15-06-2024
+1116,Diya,38,,Bangalore,57000,Master's,High,04/07/2023,16-07-2023
+1117,Parth,31,M,Nagpur,20000,Master's,High,2019/09/07,09/02/2024
+1118,Meera,63,F,Delhi,50000,Master's,Low,08/01/2022,13/12/2024
+1119,Aadhya,-5,female,Lucknow,34000,Master's,Low,2019-10-09,2023/06/11
+1120,Tara,36,FEMALE,Chennai,38500,High School,Low,2023-01-20,2023/06/29
+1121,Samar,49,Male,Bangalore,58000,Master's,Low,2022-05-19,10/12/2023
+1122,Lavanya,50,FEMALE,Surat,51000,Master's,Medium,11-01-2023,
+1123,Aditya,58,male,Kochi,66500,Master's,High,2019/10/15,2023-09-12
+1124,Ishaan,64,M,Jaipur,,Bachelor's,Low,2019/11/24,21/12/2024
+1125,Anika,32,F,Bangalore,62000,Master's,High,01-04-2023,2024-11-27
+1126,Riya,25,F,Mumbai,53000,Bachelor's,Low,2023/10/16,
+1127,Lavanya,21,Female,Surat,45000,High School,High,2023-01-21,04-01-2023
+1128,Neil,21,M,Kochi,21000,PhD,,24-04-2023,2024/10/23
+1129,Kritika,42,FEMALE,Kolkata,840.0,Bachelor's,Medium,2022/01/05,2023-08-17
+1130,Veer,52,,Kolkata,41500,Bachelor's,Low,2023-11-28,
+1131,Aadhya,24,Female,Jaipur,,High School,Low,24-04-2020,27-02-2023
+1132,Krish,61,M,Chandigarh,48500,Bachelor's,High,07/09/2020,
+1133,Divya,53,female,Surat,,PhD,Medium,16-04-2021,2023/07/08
+1134,Raghav,21,male,Hyderabad,79500,Bachelor's,Medium,2022-08-17,2024-01-15
+1135,Myra,56,Female,Jaipur,,Bachelor's,Medium,01-02-2019,2023/05/01
+1136,Ira,53,female,Chennai,45500,Master's,Medium,2021/10/15,
+1137,Veer,38,M,Kolkata,,Bachelor's,,2022/04/11,20/07/2023
+1138,Tara,61,female,Chennai,51500,PhD,High,13-12-2019,15-05-2024
+1139,Zara,,Female,Chandigarh,,High School,Medium,15-07-2022,
+1140,Rudra,58,MALE,Lucknow,37500,PhD,,2021-04-22,
+1141,Diya,62,F,Lucknow,24000,Bachelor's,Low,08-05-2020,16/09/2023
+1142,Vihaan,33,M,Nagpur,50500,High School,High,2019/07/11,2024/07/19
+C1143,Aryan,45,male,Lucknow,47000,High School,Low,2023/11/13,18/03/2023
+1144,Kavya,38,Female,Mumbai,59500,PhD,Medium,2020/05/07,07/07/2024
+1145,Zara,40,Female,Mumbai,400000,Master's,High,23/03/2021,
+1146,Meera,53,,Kolkata,31000,PhD,High,2020-05-19,
+1147,Gauri,41,female,Delhi,550000,Master's,Low,2021/07/08,
+C1148,Kritika,36,F,Kolkata,59000,Bachelor's,Low,14-12-2019,2023/10/02
+1149,Kian,22,M,Chennai,31000,PhD,Low,05/10/2019,
+1150,Ishita,46,FEMALE,Chennai,55000,Bachelor's,High,2020/02/16,12/02/2024
+1151,Bhavya,38,FEMALE,Kolkata,68500,Master's,High,22-01-2022,2024-07-17
+1152,Reyansh,62,male,Delhi,43000,PhD,Low,10/05/2020,2024/03/09
+C1153,Diya,52,,Hyderabad,43000,PhD,Medium,2023-07-22,
+1154,Divya,54,female,Lucknow,39000,Master's,Medium,21/07/2019,15-06-2024
+1155,Rudra,48,male,Delhi,49000,High School,High,30/09/2020,2023/07/31
+1156,Ishaan,20,MALE,Indore,20500,,Low,03-12-2019,19-07-2024
+1157,Karan,58,MALE,Bangalore,61000,PhD,,2020/02/09,2024-02-03
+1158,Krish,52,Male,Bangalore,47500,High School,Medium,01/08/2022,2024/09/17
+1159,Shaurya,61,MALE,Nagpur,42500,High School,Medium,2020-09-17,11-12-2024
+1160,Krish,29,male,Surat,35000,Bachelor's,Medium,19/01/2020,2024-09-26
+1161,Ananya,42,FEMALE,Hyderabad,68500,PhD,Medium,2019-06-19,14/08/2023
+CUST-1162A,Aditya,54,M,Nagpur,27500,High School,Medium,14/08/2023,2023/02/12
+1163,Arjun,59,,Indore,35000,High School,Medium,2019/06/28,01-05-2023
+1164,Kritika,58,F,Kolkata,52000,Bachelor's,Low,26/12/2021,22/06/2023
+1165,Tanish,61,M,Chandigarh,480000,Master's,Low,29-09-2019,
+1166,Yash,58,MALE,Pune,37000,High School,Low,16/03/2023,2024/01/13
+1167,Tanish,64,Male,Delhi,57500,Master's,High,29-05-2021,27/11/2023
+1168,Ishita,61,FEMALE,Indore,,PhD,,2019/11/20,14-03-2024
+1169,Kavya,35,F,Delhi,70500,Master's,High,22/03/2021,2023/08/28
+1170,Saanvi,26,Female,Jaipur,20500,High School,,2019/09/04,2024-05-04
+1171,Kabir,37,Male,Bangalore,62000,Bachelor's,High,2021-12-22,2023/06/18
+1172,Veer,61,male,Surat,49000,High School,Low,25/02/2021,19-11-2023
+1173,Aisha,64,female,Jaipur,49500,High School,High,25-02-2020,2023-10-30
+1174,Tara,33,female,Surat,31000,High School,Medium,2023/10/29,30-11-2024
+1175,Diya,18,Female,Pune,36000,PhD,High,2023/04/21,2024-02-16
+1176,Myra,23,female,Hyderabad,56500,Bachelor's,Medium,2023-04-13,23-03-2024
+C1177,Kabir,56,MALE,Mumbai,53500,Bachelor's,High,24-01-2019,22/12/2023
+1178,Manav,19,M,Chennai,51000,High School,High,2021/10/13,2023/02/26
+1179,Sahil,54,male,Lucknow,42000,High School,,2020-05-15,28-01-2024
+1180,Aisha,63,Female,Nagpur,29000,Bachelor's,High,2023-08-19,2023-05-03
+1181,Ira,47,Female,Chandigarh,51000,Master's,Medium,,31/07/2024
+1182,Krish,30,M,Nagpur,40500,Bachelor's,Medium,,2024-10-13
+1183,Tanish,37,MALE,Delhi,46500,PhD,Low,19/10/2019,
+1184,Falak,47,FEMALE,Nagpur,296000,PhD,High,18-09-2022,25/09/2023
+1185,Ishaan,32,M,Delhi,77500,High School,Low,2020/10/05,
+1186,Sara,25,FEMALE,Delhi,60500,High School,Medium,27-12-2022,2024-02-10
+1187,Aarav,46,male,Hyderabad,35500,PhD,Low,07-05-2019,
+1188,Krish,22,Male,Mumbai,58000,PhD,Low,26/08/2023,
+1189,Samar,49,MALE,Mumbai,38500,Master's,Low,02-07-2021,
+1190,Yash,53,M,Surat,,Bachelor's,High,12-12-2021,2024-07-10
+1191,Tara,49,F,Chennai,57500,PhD,Low,2020-03-24,2023-10-15
+1192,Parth,32,M,Bangalore,1200.0,High School,Low,2023/06/22,27-06-2023
+1193,Veer,63,M,Nagpur,51000,Bachelor's,Low,2023/07/18,2023/06/29
+CUST-1194A,Aarav,18,male,Chennai,38000,Bachelor's,Low,26/09/2023,
+1195,Hina,51,female,Chandigarh,59500,PhD,Medium,07-10-2019,2024/03/23
+1196,Karan,29,M,Kolkata,47000,Bachelor's,Low,2022/03/19,2024-08-04
+1197,Ayaan,49,male,Bangalore,70000,Master's,Low,01/07/2019,29-09-2023
+1198,Raghav,18,M,Mumbai,73000,Bachelor's,Medium,2020/12/20,
+1199,Kavya,20,female,Pune,,High School,Low,2019-11-26,06/04/2023
+1200,Falak,,FEMALE,Lucknow,35000,Bachelor's,Medium,2020/01/25,07/07/2024
+1201,Vivaan,53,Male,Chandigarh,39000,High School,Medium,2022/07/04,27-01-2023
+1202,Yash,37,Male,Indore,28500,Master's,High,2021/01/29,2024-04-01
+1203,Samar,21,male,Bangalore,50000,High School,High,30-03-2023,2024/02/01
+1204,Bhavya,48,FEMALE,Pune,,High School,High,19-10-2022,
+1205,Arjun,26,male,Mumbai,49000,PhD,High,03/05/2022,2023-03-10
+1206,Tanish,47,M,Kochi,48000,PhD,Low,2022-04-19,2024-07-30
+1207,Lavanya,42,F,Lucknow,41500,High School,Medium,2022/05/31,
+1208,Vivaan,35,male,Kochi,54000,Master's,Medium,2022-11-03,22-08-2023
+1209,Myra,56,F,Lucknow,380000,PhD,High,2023-08-09,2023-06-12
+1210,Hina,54,female,Mumbai,50000,Bachelor's,Low,,
+1211,Samar,43,M,Lucknow,55500,Bachelor's,High,2023/11/18,25/12/2023
+1212,Sara,,Female,Mumbai,47000,Bachelor's,High,28/02/2020,2024-06-09
+1213,Tara,59,Female,Bangalore,92500,,Medium,23/12/2022,21/01/2024
+1214,Dhruv,57,M,Kolkata,49500,,Medium,01/05/2022,2023/04/21
+C1215,Navya,35,,Pune,41500,Master's,High,2019/04/27,28-11-2024
+1216,Myra,43,F,Kolkata,29000,Bachelor's,High,2021/12/30,18/11/2024
+1217,Sara,26,female,Nagpur,43000,Bachelor's,Medium,31/03/2020,2023/11/11
+1218,Krish,25,M,Surat,,High School,Low,2023/11/12,2024-02-28
+1219,Ishaan,54,male,Kochi,41500,Master's,Low,25/09/2021,01/07/2023
+1220,Arjun,28,M,Jaipur,48500,High School,Medium,2021/04/06,2024-01-28
+CUST-1221A,Aarav,51,M,Ahmedabad,,,Low,06/12/2020,
+1222,Riya,37,female,Pune,57500,Master's,High,2020/12/02,12-07-2023
+1223,Diya,64,FEMALE,Bangalore,59000,,Low,2022-08-25,17/10/2024
+1224,Esha,19,Female,Mumbai,40000,PhD,Medium,10-11-2019,2024-10-07
+1225,Chhavi,26,F,Kolkata,24000,High School,Low,01-06-2022,19-06-2024
+1226,Vivaan,31,male,Nagpur,31500,High School,,2019/08/15,
+1227,Lavanya,32,Female,Surat,56500,PhD,Low,12/10/2023,24/11/2024
+1228,Aarav,60,Male,Lucknow,40500,PhD,Medium,10/07/2019,2023-07-07
+1229,Jiya,48,F,Indore,24000,Bachelor's,High,26-09-2023,
+1230,Aditya,40,MALE,Jaipur,,Bachelor's,Medium,2021/04/22,
+1231,Dhruv,51,male,Hyderabad,52000,PhD,Low,2022/09/21,
+1232,Diya,28,Female,Hyderabad,54500,Bachelor's,Medium,08/11/2020,
+1233,Jiya,47,FEMALE,Surat,35500,PhD,Low,2023-03-07,
+1234,Jiya,56,Female,Jaipur,42000,Bachelor's,Medium,2021-01-14,10/04/2024
+1235,Falak,63,FEMALE,Surat,46500,Bachelor's,,21/07/2022,2024-01-18
+CUST-1236A,Samar,64,male,Kolkata,840.0,High School,Medium,16-08-2023,2023/04/21
+CUST-1237A,Hina,47,Female,Lucknow,24500,PhD,,2022/02/07,09-05-2024
+1238,Kabir,56,male,Jaipur,44500,PhD,High,11-04-2023,18/12/2023
+1239,Shaurya,65,MALE,Hyderabad,56500,Master's,High,16-02-2020,25/10/2023
+1240,Ansh,58,male,Chennai,61000,PhD,High,12/10/2022,2024-03-08
+1241,Vivaan,30,male,Pune,64500,Master's,Low,15/11/2022,2024-07-08
+1242,Manav,42,male,Ahmedabad,28500,Master's,Low,2021/03/04,02/12/2024
+1243,Arjun,46,M,Chandigarh,36500,Master's,High,07-02-2020,2023-07-01
+1244,Vihaan,200,Male,Hyderabad,56000,Master's,,2019-11-14,2023-11-27
+1245,Tara,53,F,Chennai,,Bachelor's,High,31-10-2021,2024/07/03
+1246,Dhruv,41,male,Pune,58000,PhD,High,,01-04-2024
+1247,Meera,38,female,Kolkata,48000,PhD,High,24/11/2021,2024/06/04
+1248,Ishaan,24,male,Bangalore,106000,High School,Low,04-05-2023,2024-03-10
+1249,Divya,22,FEMALE,Nagpur,44000,,Low,22-04-2019,2024-07-25
+1250,Kian,58,M,Kolkata,55500,,High,,2023-03-06
+1251,Dev,37,Male,Jaipur,400000,High School,High,2023/03/10,12/07/2024
+1252,Aarav,53,M,Bangalore,71500,,High,24/06/2019,19-12-2023
+1253,Kavya,57,female,Chandigarh,56000,High School,High,2022-01-30,10/03/2023
+1254,Navya,60,FEMALE,Lucknow,34000,High School,Medium,03/11/2020,06/06/2023
+1255,Diya,32,female,Nagpur,46000,Master's,High,2021/09/09,2023/11/09
+1256,Samar,26,Male,Kochi,34500,High School,Low,2022-07-17,2024/08/15
+1257,Om,52,Male,Surat,43000,PhD,High,18-08-2020,2024-06-06
+1258,Kritika,57,female,Lucknow,32000,PhD,High,12-09-2022,10/05/2024
+CUST-1259A,Riya,32,female,Mumbai,51000,Master's,Medium,23/03/2019,
+1260,Jiya,55,F,Hyderabad,78000,PhD,High,09/06/2019,2023/08/17
+1261,Ishita,56,FEMALE,Mumbai,27500,Bachelor's,High,09-03-2020,2024-01-06
+1262,Manav,61,M,Surat,54000,PhD,,,14-06-2023
+1263,Vivaan,29,male,Hyderabad,30500,High School,High,2020-08-03,2024/09/13
+1264,Shaurya,55,MALE,Chandigarh,42500,Master's,High,2021-07-17,30-01-2024
+1265,Samar,24,MALE,Bangalore,73000,High School,High,2019-08-29,2023-05-14
+1266,Zara,20,FEMALE,Nagpur,38000,PhD,Medium,2023-07-06,2023/09/18
+1267,Sara,52,Female,Kolkata,29000,,Low,2019-08-30,30/07/2023
+1268,Ayaan,34,MALE,Chandigarh,39500,Master's,Medium,2021/04/26,2024/07/26
+1269,Parth,65,M,Bangalore,68000,Bachelor's,High,25-07-2019,2023-12-13
+1270,Ishita,27,Female,Surat,37000,High School,Medium,2019/03/19,15/02/2024
+1271,Divya,18,female,Ahmedabad,47500,Master's,High,01-12-2022,2024-11-21
+1272,Riya,43,female,Chennai,48500,Bachelor's,High,04/07/2019,26/07/2024
+1273,Chhavi,47,female,Kochi,36000,,High,29/05/2019,30/04/2023
+1274,Falak,42,F,Jaipur,65500,Master's,Medium,2022-04-16,2023-09-22
+1275,Esha,38,female,Kolkata,49500,High School,Medium,2019/07/10,2023-12-17
+1276,Rudra,54,M,Pune,27500,Bachelor's,Low,10/05/2020,27-07-2023
+1277,Kabir,61,Male,Lucknow,40000,,Low,30/01/2021,11/08/2024
+1278,Lavanya,43,,Ahmedabad,37000,PhD,High,,03-12-2024
+1279,Ishaan,18,MALE,Lucknow,48000,Master's,Medium,22-06-2020,19/09/2024
+1280,Kian,41,male,Chennai,38500,Bachelor's,High,2023-07-26,2023/08/30
+1281,Yash,29,male,Kolkata,40500,Master's,Medium,2023-10-25,08-12-2024
+C1282,Jiya,46,FEMALE,Nagpur,43000,Master's,Medium,12-11-2023,27-10-2024
+1283,Dhruv,65,M,Surat,56500,Master's,Low,04/08/2022,2024/09/19
+1284,Ishaan,38,male,Lucknow,23500,PhD,Medium,2021/01/13,2023-07-08
+1285,Manav,23,M,Ahmedabad,41000,High School,Medium,2019/02/23,2023-03-27
+1286,Dev,65,MALE,Pune,46500,Bachelor's,,29/10/2023,23/04/2024
+1287,Krish,58,male,Nagpur,29000,Master's,Medium,2023-07-07,2024/01/10
+1288,Ansh,26,Male,Chennai,69000,PhD,Medium,2023/04/18,03-09-2024
+1289,Kiara,45,female,Kolkata,47000,PhD,Low,14-05-2021,19/09/2024
+1290,Kiara,22,F,Bangalore,45000,PhD,Medium,04-10-2021,2023-06-05
+1291,Dev,63,Male,Surat,57000,Bachelor's,,10/05/2021,25/05/2024
+1292,Riya,27,F,Mumbai,75500,PhD,Medium,2023-08-24,
+1293,Karan,20,MALE,Ahmedabad,57500,Bachelor's,High,23-10-2020,2023-02-13
+1294,Anika,60,female,Ahmedabad,27000,PhD,Low,2022-04-12,2023-09-06
+1295,Falak,41,FEMALE,Indore,312000,Master's,High,29-12-2020,20-04-2023
+1296,Raghav,64,M,Ahmedabad,,Bachelor's,Low,15/06/2021,16-05-2024
+1297,Gauri,56,F,Kochi,38000,Bachelor's,Medium,2021-07-18,2024/06/02
+1298,Hina,38,F,Nagpur,,PhD,High,03-02-2022,2023/11/27
+1299,Vivaan,26,Male,Bangalore,75000,PhD,Low,2023/09/09,22/06/2024
+CUST-1300A,Aarav,31,Male,Lucknow,29500,High School,High,2022/02/16,2024-12-26
+1301,Manav,37,Male,Delhi,60500,High School,Low,24-01-2020,12-09-2023
+1302,Hina,40,Female,Lucknow,47500,High School,Low,30/10/2021,2024/06/30
+1303,Kritika,58,F,Kolkata,31000,Bachelor's,Low,31/01/2022,2024/04/08
+1304,Dev,51,Male,Bangalore,59500,Master's,Low,14/02/2019,07-06-2024
+1305,Rohan,55,male,Ahmedabad,15000,High School,High,2023-02-12,09-05-2024
+1306,Chhavi,20,Female,Nagpur,24500,High School,Medium,2023/08/01,04-05-2023
+1307,Divya,42,Female,Mumbai,47000,,Low,30-11-2022,2024/11/20
+1308,Aadhya,43,Female,Bangalore,45000,High School,Medium,2021/10/24,14-05-2023
+1309,Ayaan,53,MALE,Jaipur,59500,Bachelor's,Medium,2022-03-25,
+1310,Ishaan,59,male,Mumbai,33000,Master's,Medium,2021-06-21,28-08-2023
+1311,Kabir,33,Male,Jaipur,34500,Master's,,16/08/2019,24/01/2023
+1312,Aisha,34,female,Hyderabad,51500,Bachelor's,High,,2024-11-10
+1313,Raghav,35,male,Mumbai,67500,High School,Medium,13/09/2022,20/01/2023
+1314,Ira,63,female,Delhi,38000,High School,High,2022-02-22,
+1315,Vihaan,19,MALE,Chennai,62000,Master's,High,07/05/2019,31/01/2023
+1316,Dhruv,64,MALE,Kolkata,42000,Bachelor's,High,01/10/2020,15-05-2023
+1317,Kritika,62,female,Nagpur,25000,PhD,Low,02-03-2022,2024-07-24
+1318,Gauri,,female,Chennai,53500,PhD,High,28/07/2022,2023-07-12
+1319,Shaurya,32,M,Jaipur,42500,Master's,Medium,2023/09/29,18-01-2024
+1320,Aditya,20,male,Kolkata,35000,,Medium,06-10-2022,09-03-2023
+1321,Ishita,62,,Chennai,49000,PhD,Low,2023/08/16,2024-02-08
+1322,Uday,51,Male,Hyderabad,45500,PhD,High,24/01/2020,08/11/2023
+1323,Neil,27,Male,Surat,47500,High School,High,26-11-2022,2023/11/28
+CUST-1324A,Uday,34,male,Chennai,56000,Bachelor's,Low,2022/12/17,2023/03/29
+1325,Sara,42,,Hyderabad,69000,Master's,High,29-11-2019,2024-12-30
+1326,Dev,25,MALE,Kochi,29000,Master's,,2021-10-18,20-05-2024
+1327,Kiara,56,FEMALE,Jaipur,,Master's,High,2020-03-01,26/02/2023
+CUST-1328A,Navya,21,F,Delhi,80500,Master's,High,18-03-2022,15/08/2024
+1329,Ishaan,42,M,Chandigarh,,High School,Low,27/10/2023,28-02-2024
+1330,Bhavya,58,Female,Hyderabad,26500,Master's,Medium,23/03/2022,2024/09/21
+1331,Ishita,57,FEMALE,Ahmedabad,43000,High School,Medium,30-08-2019,2024/02/29
+CUST-1332A,Aarav,62,male,Pune,59000,Master's,Medium,22/08/2019,2024-08-05
+1333,Veer,48,M,Indore,,Bachelor's,High,2021/08/05,27/02/2023
+1334,Saanvi,39,Female,Indore,42500,High School,Medium,2020/11/25,2023/06/19
+1335,Neil,63,M,Mumbai,42500,Bachelor's,Medium,11-09-2020,
+1336,Pari,48,Female,Kochi,41500,PhD,High,01-11-2020,11-04-2023
+1337,Neil,25,MALE,Mumbai,44000,,Low,2023-12-27,
+1338,Bhavya,58,Female,Kochi,37000,Master's,Medium,2022-10-06,11/06/2023
+1339,Saanvi,53,Female,Chennai,58000,Master's,Low,09/06/2022,21-02-2023
+CUST-1340A,Isha,23,Female,Kolkata,46500,PhD,Medium,2020-02-10,21-04-2024
+1341,Isha,61,FEMALE,Lucknow,29500,Bachelor's,Low,17/06/2022,06-02-2024
+1342,Pari,22,F,Surat,57000,Bachelor's,Medium,2019-09-18,20/04/2023
+1343,Om,55,M,Kolkata,45500,Bachelor's,Medium,2020/03/02,21/03/2024
+1344,Manav,54,Male,Chandigarh,58000,PhD,Low,27/12/2019,2023-03-13
+1345,Navya,60,FEMALE,Mumbai,400000,High School,High,24/12/2021,2024/08/14
+1346,Sara,61,F,Pune,59500,Master's,High,,18-02-2024
+1347,Aarav,40,Male,Delhi,45000,Bachelor's,High,2020/10/13,21-03-2024
+1348,Om,41,male,Chandigarh,41500,Bachelor's,Low,2019/10/22,2023-05-20
+1349,Lavanya,56,FEMALE,Kochi,53000,PhD,Medium,07-04-2020,2023/01/08
+1350,Kian,54,M,Chennai,,,Medium,2021-09-13,
+1351,Bhavya,47,,Hyderabad,,High School,High,2022-10-01,06/07/2024
+1352,Tara,48,Female,Jaipur,47500,Master's,Low,08/05/2022,31/07/2024
+C1353,Krish,200,male,Indore,38500,,Low,10/10/2023,22/09/2024
+1354,Shaurya,55,Male,Nagpur,38500,Bachelor's,High,2020-01-06,28-03-2023
+1355,Hina,42,FEMALE,Ahmedabad,60500,Bachelor's,High,22/04/2019,2023-04-29
+1356,Yash,52,M,Ahmedabad,38000,PhD,High,25/01/2019,2024/04/04
+1357,Isha,58,Female,Chennai,54500,Master's,Medium,2020/06/06,22-11-2024
+1358,Zara,62,female,Bangalore,57500,,,2021-04-22,2024/12/02
+1359,Saanvi,,F,Jaipur,800.0,Bachelor's,High,2019-09-03,2023/05/14
+1360,Lavanya,29,female,Pune,49500,High School,Medium,18/11/2022,17/03/2023
+1361,Vivaan,34,M,Bangalore,73000,Bachelor's,Low,11-08-2019,17-03-2024
+1362,Neil,20,MALE,Delhi,,PhD,,2022-08-30,2024/11/11
+1363,Bhavya,,FEMALE,Nagpur,47000,PhD,High,2023-05-28,2023/01/04
+1364,Isha,40,FEMALE,Chennai,58000,High School,Medium,30/07/2021,2023-06-30
+1365,Falak,24,F,Lucknow,53500,PhD,Low,,
+1366,Aryan,59,MALE,Pune,52500,PhD,Low,,
+1367,Arjun,60,Male,Hyderabad,58000,Bachelor's,Low,17-03-2019,2023/01/20
+1368,Falak,18,female,Bangalore,56500,High School,Low,2019-05-11,
+1369,Ishita,39,Female,Indore,43000,PhD,High,09/10/2019,2023-08-07
+1370,Sahil,44,Male,Bangalore,58500,PhD,High,,
+1371,Diya,23,female,Mumbai,,Master's,Medium,27-02-2020,2024/06/19
+1372,Chhavi,49,Female,Jaipur,41000,Master's,Low,2020-01-29,08/04/2023
+1373,Riya,58,,Lucknow,45000,High School,High,2021/08/29,2024-11-17
+C1374,Kian,57,male,Indore,29000,High School,High,2023-05-28,2023-04-29
+1375,Kiara,61,F,Kochi,69000,Master's,Low,17-11-2023,2023-08-14
+1376,Rohan,57,MALE,Surat,34000,PhD,High,06-07-2020,2023-02-02
+1377,Reyansh,39,MALE,Ahmedabad,30500,Bachelor's,High,2019/06/27,15-05-2024
+1378,Diya,65,F,Chandigarh,62000,Bachelor's,High,2022-03-20,2023-02-15
+1379,Kiara,48,Female,Indore,48500,PhD,Low,2019/01/26,16/05/2023
+1380,Diya,37,Female,Bangalore,67500,High School,Medium,2023/11/26,2024/01/15
+1381,Vihaan,39,Male,Hyderabad,,Master's,High,16-06-2023,24/03/2023
+1382,Uday,0,M,Chennai,55500,,High,18-05-2019,
+1383,Gauri,55,FEMALE,Chandigarh,48000,Bachelor's,Medium,16/05/2021,
+1384,Yash,61,Male,Chandigarh,37000,Master's,High,2023-12-14,2024-04-13
+C1385,Riya,35,F,Delhi,56000,Bachelor's,High,,29-11-2024
+1386,Dev,19,Male,Chandigarh,40000,Master's,Medium,31/05/2023,2024/11/12
+1387,Kavya,32,F,Surat,57500,High School,Medium,07-12-2019,20-10-2023
+1388,Kavya,20,female,Chennai,46000,Master's,High,25/09/2022,01/06/2023
+1389,Ananya,19,,Kolkata,32000,PhD,Low,,03/06/2024
+1390,Parth,54,M,Lucknow,34000,PhD,Low,24-03-2019,30/04/2023
+CUST-1391A,Pari,38,female,Mumbai,55000,Bachelor's,Medium,2019/06/21,2023/03/31
+1392,Veer,43,Male,Bangalore,53000,PhD,Medium,2020/09/22,31-03-2023
+1393,Raghav,28,MALE,Indore,29000,PhD,High,22-10-2019,21/06/2024
+C1394,Riya,,FEMALE,Lucknow,41000,PhD,Low,2023/09/01,2024-05-17
+1395,Yash,47,M,Ahmedabad,,,High,2021-08-25,2023/10/22
+1396,Diya,35,female,Surat,49000,Master's,High,2020/06/12,03/05/2023
+1397,Kavya,27,F,Chennai,42000,Master's,Medium,27/07/2022,
+1398,Zara,58,Female,Bangalore,54500,Bachelor's,Medium,03/11/2022,15/12/2024
+1399,Diya,36,female,Chennai,51000,Bachelor's,Low,31-08-2023,2024-07-26
+1400,Jiya,19,Female,Surat,28500,Bachelor's,High,01-12-2020,2023-01-30
+1401,Falak,26,female,Ahmedabad,28000,High School,Medium,29-03-2019,
+1402,Tara,34,Female,Mumbai,,High School,High,14-02-2020,2023-01-30
+1403,Bhavya,28,F,Chandigarh,39500,Bachelor's,Low,2022-03-30,16/07/2023
+1404,Gauri,31,Female,Kochi,41500,Master's,Low,08-08-2019,2024/01/24
+1405,Parth,25,Male,Surat,49500,Master's,High,18/06/2019,30/01/2024
+1406,Aadhya,36,FEMALE,Chandigarh,65500,PhD,Medium,2022/10/12,2024/02/10
+1407,Ananya,62,Female,Jaipur,50500,Bachelor's,Low,2022/05/03,
+1408,Hina,55,F,Jaipur,38000,PhD,High,2021/04/08,2023/05/31
+1409,Karan,26,MALE,Mumbai,400000,PhD,Low,23/10/2022,2024-09-28
+1410,Ishita,36,FEMALE,Lucknow,38000,Master's,High,2023-04-14,2023/05/02
+1411,Pari,,FEMALE,Bangalore,48000,Master's,Low,03/10/2019,2024-05-14
+1412,Yash,28,MALE,Hyderabad,,PhD,Medium,05/08/2020,
+1413,Rudra,55,M,Mumbai,50000,PhD,Medium,23/04/2021,
+1414,Krish,62,M,Delhi,51500,Bachelor's,,2021/08/01,07/03/2024
+CUST-1415A,Ishaan,42,Male,Chennai,52000,High School,Low,26/10/2021,03/11/2023
+1416,Samar,31,Male,Pune,42000,PhD,High,2019-07-08,2023-10-07
+1417,Saanvi,22,FEMALE,Lucknow,44000,Master's,High,2021/04/28,2024/06/11
+1418,Divya,29,Female,Jaipur,58500,PhD,High,2022/06/12,2024-10-03
+1419,Karan,61,male,Indore,37500,Master's,Low,2023/09/29,21-10-2023
+1420,Aadhya,30,FEMALE,Mumbai,55000,PhD,Medium,17-03-2019,2023-05-20
+1421,Divya,64,female,Surat,54500,High School,Medium,13/04/2021,2023/04/03
+1422,Aadhya,65,female,Hyderabad,45000,Master's,Low,08/09/2019,2024/08/21
+1423,Saanvi,29,FEMALE,Ahmedabad,47500,Master's,Low,2021-02-06,2024/03/09
+1424,Anika,41,female,Chandigarh,48000,High School,High,22-04-2019,29/01/2024
+1425,Aisha,46,Female,Kolkata,,Master's,Low,27-10-2023,08/10/2024
+1426,Ishita,,FEMALE,Chandigarh,480000,PhD,Medium,2023-12-01,16/12/2024
+1427,Reyansh,21,M,Lucknow,39000,Bachelor's,,17/09/2020,24-04-2023
+1428,Kritika,44,female,Indore,29500,Bachelor's,High,01/11/2020,29/02/2024
+1429,Diya,53,female,Lucknow,38500,High School,Low,11-10-2023,
+1430,Riya,28,female,Jaipur,46000,PhD,Medium,2021-10-09,28-07-2023
+1431,Sara,42,F,Bangalore,77500,Bachelor's,Medium,2020/01/23,2023-05-30
+1432,Veer,55,MALE,Lucknow,49500,PhD,Medium,25-03-2021,2024/12/26
+1433,Om,200,Male,Kochi,70000,High School,,19/02/2021,18/11/2024
+1434,Bhavya,28,Female,Hyderabad,41000,PhD,Medium,05-06-2021,2023-11-17
+1435,Manav,45,M,Pune,62500,Master's,Medium,2020/10/08,2023/06/04
+C1436,Aditya,,male,Pune,54000,High School,Medium,,2024/12/27
+1437,Kabir,31,male,Chandigarh,74500,Master's,High,2022-04-10,07-08-2024
+1438,Dhruv,39,MALE,Mumbai,40500,High School,High,06/08/2019,2023/03/25
+1439,Divya,56,FEMALE,Lucknow,,PhD,High,21-06-2023,19/02/2023
+1440,Om,42,Male,Delhi,45000,PhD,Low,2023/05/16,31-10-2024
+1441,Manav,37,MALE,Kochi,37000,High School,High,2021/07/01,2024/07/30
+1442,Shaurya,58,M,Kolkata,840.0,PhD,High,2019/11/14,2024-10-24
+1443,Dev,26,MALE,Lucknow,15000,PhD,Low,2019-04-03,2024-02-27
+1444,Anika,23,F,Indore,32500,PhD,Low,2019-04-03,22/12/2024
+1445,Chhavi,39,FEMALE,Kochi,35000,Bachelor's,High,2022-10-11,2023-01-19
+1446,Reyansh,60,MALE,Nagpur,39000,Master's,High,06/07/2023,
+1447,Neil,19,Male,Ahmedabad,49000,Bachelor's,High,08-01-2022,
+1448,Aarav,27,MALE,Nagpur,59500,PhD,,11-05-2020,2024-02-06
+1449,Kian,65,MALE,Jaipur,51500,Master's,,2021/11/17,2023-03-04
+1450,Sahil,44,Male,Kochi,37000,Master's,Medium,,2023/07/16
+1451,Krish,39,male,Kochi,33000,PhD,Medium,2021/03/10,20/11/2024
+1452,Chhavi,62,female,Nagpur,370000,Bachelor's,Medium,2021/05/01,2023-08-03
+1453,Rudra,29,M,Chandigarh,54000,High School,Low,05-09-2019,15/12/2023
+1454,Lavanya,62,F,Chandigarh,32000,High School,Medium,2023-09-20,2024-09-17
+1455,Aditya,31,Male,Kochi,66000,PhD,Medium,23-07-2019,09-12-2023
+1456,Parth,33,MALE,Chandigarh,62000,Bachelor's,Medium,29/04/2021,09-09-2023
+1457,Ananya,44,female,Kochi,38500,Master's,Medium,2019-01-21,
+1458,Ishaan,43,,Indore,,Bachelor's,Low,31/12/2022,28/11/2024
+1459,Aarav,51,M,Jaipur,19500,PhD,High,2022/06/20,2024/10/26
+1460,Meera,42,Female,Nagpur,53000,Master's,High,03/12/2021,2023-06-13
+CUST-1461A,Aadhya,37,F,Nagpur,35500,High School,Medium,2020-12-26,
+1462,Krish,47,M,Chennai,63000,Bachelor's,Medium,28-07-2023,16-06-2024
+1463,Jiya,47,female,Delhi,36000,PhD,Low,2019/09/24,21/03/2023
+1464,Tanish,49,MALE,Lucknow,31000,PhD,Medium,23-10-2019,13-04-2024
+1465,Falak,48,Female,Mumbai,50000,Master's,Low,2021-04-16,
+1466,Kabir,41,male,Pune,52500,,High,16/09/2020,2024-05-15
+1467,Kian,37,Male,Jaipur,34500,PhD,High,29-09-2019,2024/04/16
+1468,Aryan,60,M,Jaipur,47500,PhD,Low,2023/12/28,2024-10-23
+1469,Aisha,59,F,Hyderabad,1000.0,High School,High,2021-09-01,
+1470,Sahil,33,Male,Chandigarh,35000,PhD,High,2021-04-02,24/01/2023
+1471,Vihaan,25,M,Delhi,53500,Bachelor's,Low,14-04-2021,
+1472,Dev,38,Male,Bangalore,61500,PhD,Low,05-05-2020,2024/05/31
+1473,Reyansh,22,M,Surat,,High School,High,19-05-2020,2024/02/21
+C1474,Ishita,41,female,Hyderabad,56000,PhD,High,2019/01/03,27/09/2024
+1475,Veer,35,Male,Jaipur,48500,Master's,Low,11/11/2021,
+1476,Riya,25,F,Chandigarh,34500,Master's,Low,01/07/2023,17/12/2023
+1477,Aadhya,38,F,Chennai,29500,Master's,,2022-08-16,2023-01-05
+1478,Parth,23,MALE,Indore,54500,High School,High,10/09/2019,21/01/2024
+1479,Isha,30,Female,Surat,,Master's,High,04/07/2019,15-08-2023
+1480,Myra,63,Female,Nagpur,41000,,High,17/11/2023,20-05-2024
+1481,Riya,65,female,Delhi,46000,Bachelor's,High,2020-01-28,10/12/2024
+1482,Kiara,59,Female,Mumbai,68500,PhD,High,11/10/2021,14-02-2023
+CUST-1483A,Navya,,FEMALE,Ahmedabad,46500,High School,Low,2021-05-17,21-07-2023
+1484,Aarav,19,Male,Jaipur,54000,Master's,Medium,2020-11-28,16-06-2024
+1485,Hina,46,FEMALE,Jaipur,41000,High School,High,2019-09-19,2024-03-28
+1486,Isha,53,Female,Mumbai,74500,High School,Medium,2022-05-12,2024/04/20
+1487,Divya,19,F,Surat,67000,High School,High,29-04-2022,10/05/2023
+1488,Aditya,20,MALE,Mumbai,47000,Master's,High,2019/10/29,18/12/2023
+1489,Vivaan,53,male,Chandigarh,,Bachelor's,Low,30-11-2020,2024/12/12
+1490,Shaurya,39,M,Bangalore,480000,High School,High,01-07-2022,2023/12/06
+1491,Rudra,,Male,Chennai,,Master's,High,17/04/2023,
+CUST-1492A,Karan,64,male,Bangalore,71500,Bachelor's,Low,2019-07-27,2023/05/21
+1493,Mahi,47,F,Ahmedabad,52500,Bachelor's,High,2023-12-04,
+1494,Arjun,62,male,Chennai,64500,Bachelor's,High,16/10/2023,02-12-2023
+C1495,Kritika,55,female,Kochi,32500,PhD,High,2021/11/07,22/10/2024
+1496,Neil,62,M,Surat,54000,Master's,High,2022-04-10,2023/07/27
+1497,Kian,54,M,Bangalore,72500,High School,Low,28/11/2021,2023/02/12
+1498,Reyansh,41,MALE,Indore,18000,High School,Low,05/06/2019,2023-10-29
+1499,Isha,20,Female,Hyderabad,36000,Master's,High,31/10/2022,10-09-2024
+1500,Diya,36,F,Chandigarh,23500,PhD,High,,2023/06/02
+1501,Tara,55,female,Indore,36000,PhD,Low,2020/01/20,2024/12/15
+1502,Rudra,26,Male,Pune,60500,,Medium,2021/05/08,18/02/2024
+1503,Veer,39,Male,Jaipur,58000,PhD,Low,2019/05/11,22/04/2023
+1504,Aryan,61,M,Hyderabad,51000,PhD,,01/03/2021,2023-10-26
+1505,Aditya,44,Male,Kolkata,61500,PhD,Low,08-11-2023,
+1506,Aditya,37,MALE,Jaipur,23500,PhD,Low,2021-07-01,11-09-2024
+1507,Pari,20,FEMALE,Nagpur,740.0,PhD,High,11-03-2021,2023/07/03
+1508,Falak,43,female,Nagpur,16500,Bachelor's,High,2022-09-27,2023/08/11
+1509,Anika,24,Female,Hyderabad,49500,PhD,Low,2021-08-04,
+1510,Navya,30,FEMALE,Kolkata,,Bachelor's,High,2021-08-02,
+1511,Ananya,35,FEMALE,Chandigarh,52500,High School,Low,11-03-2021,
+1512,Pari,31,female,Nagpur,,Bachelor's,Low,2023-07-20,2023/11/12
+C1513,Parth,33,MALE,Chennai,47500,High School,Low,2020-01-29,09-04-2023
+1514,Samar,53,Male,Lucknow,15000,PhD,Low,05/08/2019,2023/01/16
+1515,Reyansh,60,male,Chandigarh,47000,High School,Low,2023/04/21,15-04-2023
+1516,Ayaan,61,M,Kochi,28500,Master's,High,2023/10/10,
+CUST-1517A,Ira,65,FEMALE,Ahmedabad,53000,High School,High,12/09/2019,14-03-2024
+1518,Yash,27,M,Kolkata,46500,,High,27/06/2021,
+1519,Zara,44,Female,Lucknow,26500,Bachelor's,Medium,2020-02-26,11-11-2024
+1520,Chhavi,51,female,Chennai,42000,High School,Low,17-04-2019,2023-05-09
+1521,Aadhya,45,female,Nagpur,24500,Bachelor's,Low,12/09/2020,12-10-2024
+1522,Anika,28,Female,Surat,45000,PhD,Medium,,27/03/2023
+1523,Sahil,37,male,Surat,57500,PhD,Low,05-02-2020,2023-01-05
+1524,Tara,44,F,Kolkata,30000,PhD,High,2023-12-18,2023/05/08
+1525,Sahil,64,MALE,Chennai,54000,Master's,High,18-05-2021,05/02/2023
+1526,Myra,61,female,Bangalore,53500,Bachelor's,,2022/08/12,2024-08-23
+1527,Aditya,34,MALE,Nagpur,27500,PhD,High,2023-11-30,
+1528,Myra,65,female,Kolkata,40500,,Medium,,
+1529,Gauri,29,F,Chennai,35500,PhD,Low,26-07-2023,02-03-2023
+1530,Reyansh,57,MALE,Delhi,48500,Master's,Low,2020-12-01,2024/05/04
+1531,Sahil,18,Male,Lucknow,23500,High School,Low,01/12/2021,29/04/2024
+1532,Ishaan,41,M,Lucknow,61500,Master's,Low,,16-02-2024
+CUST-1533A,Neil,33,M,Chennai,48500,PhD,High,30/07/2022,
+1534,Dhruv,56,M,Surat,37500,High School,Medium,2023-10-22,28-10-2023
+1535,Ananya,23,Female,Pune,54500,PhD,Medium,14-09-2021,2023-06-24
+1536,Vivaan,38,,Kochi,42500,Master's,High,2019/10/06,
+1537,Divya,63,Female,Nagpur,34500,PhD,Low,2020-08-18,
+1538,Gauri,54,female,Chennai,55500,PhD,Low,23-04-2022,09/03/2024
+1539,Zara,55,female,Ahmedabad,360000,PhD,Medium,2021/10/20,
+1540,Chhavi,50,Female,Nagpur,46000,PhD,Low,2022/12/13,
+1541,Tanish,32,male,Nagpur,30500,Bachelor's,High,28-07-2023,2024/07/15
+1542,Hina,22,F,Hyderabad,43000,Bachelor's,High,26/09/2019,2024-08-17
+1543,Divya,26,FEMALE,Surat,42500,Bachelor's,High,2022-08-26,2024-08-12
+1544,Dev,45,,Lucknow,15000,High School,Medium,2019-04-18,27/10/2024
+1545,Aadhya,,FEMALE,Ahmedabad,27000,Bachelor's,Medium,2023-06-17,2024/10/27
+1546,Diya,23,F,Delhi,71500,Bachelor's,,2022/03/18,07-04-2023
+1547,Pari,54,,Bangalore,480000,Bachelor's,High,,2024/07/03
+C1548,Hina,60,Female,Kochi,63500,Bachelor's,,2020-10-05,
+1549,Aisha,20,Female,Delhi,52000,Master's,Low,2022-09-09,17/02/2023
+1550,Neil,40,MALE,Jaipur,47000,High School,Low,21-01-2020,09-08-2023
+1551,Sahil,57,M,Kolkata,,PhD,Low,20/06/2019,12-12-2024
+1552,Ayaan,30,M,Nagpur,40500,Bachelor's,Low,2023/06/02,10-09-2024
+C1553,Dhruv,22,Male,Chennai,85000,Master's,Low,07/04/2020,
+1554,Isha,25,FEMALE,Bangalore,73500,PhD,Medium,08/11/2023,2024-09-14
+1555,Aditya,65,MALE,Lucknow,36500,PhD,Low,07-11-2022,2023/05/27
+1556,Neil,61,M,Jaipur,28500,PhD,Medium,2020/07/18,23/08/2023
+1557,Kian,23,M,Lucknow,,High School,Low,2020/08/08,2023/01/11
+1558,Tara,61,female,Lucknow,18500,PhD,,2023-08-30,20/12/2024
+1559,Chhavi,28,Female,Lucknow,40500,Bachelor's,Medium,18/11/2021,2024/03/08
+1560,Ishaan,33,Male,Chandigarh,39000,High School,Medium,2020-03-12,2024/08/05
+1561,Veer,57,Male,Chandigarh,31000,PhD,Medium,17-12-2020,2023-01-10
+1562,Kian,49,male,Mumbai,42000,Bachelor's,Medium,27-05-2021,2023-10-03
+1563,Kavya,65,FEMALE,Kolkata,,Bachelor's,Medium,,2023-12-06
+1564,Dhruv,25,MALE,Kolkata,29000,Bachelor's,Medium,2023/02/28,
+1565,Ananya,18,female,Indore,59000,Master's,High,2021/06/08,2024-05-12
+1566,Manav,33,male,Pune,62500,Bachelor's,Medium,2022-12-17,29-05-2024
+1567,Aadhya,43,female,Mumbai,50000,Bachelor's,High,2023-11-06,21/06/2024
+1568,Reyansh,48,,Mumbai,68000,Master's,Medium,2020/12/19,18-02-2023
+CUST-1569A,Arjun,35,M,Kochi,45000,Master's,Medium,2019-08-17,30-11-2024
+1570,Gauri,51,F,Jaipur,29500,Bachelor's,Low,2019-09-25,
+1571,Saanvi,24,female,Delhi,73500,Master's,Low,2019-11-11,
+1572,Lavanya,58,F,Nagpur,43500,PhD,High,08/12/2019,13/05/2023
+CUST-1573A,Gauri,49,female,Lucknow,25500,High School,High,2023/05/16,06-10-2023
+1574,Krish,50,male,Surat,43500,Master's,Low,2020-07-03,16-02-2023
+1575,Mahi,21,F,Lucknow,27500,Bachelor's,Low,19/07/2022,23/12/2024
+1576,Ishaan,58,M,Chandigarh,,Master's,Low,2023-11-13,2024/12/05
+1577,Samar,38,male,Pune,35500,PhD,Low,07/06/2021,
+1578,Aditya,29,MALE,Ahmedabad,56000,Bachelor's,Low,18-12-2023,04-12-2024
+C1579,Reyansh,43,male,Delhi,78000,High School,Medium,2019-08-14,2024-10-21
+1580,Ananya,56,F,Mumbai,33000,,High,2020-11-24,2024/05/06
+1581,Rohan,52,MALE,Nagpur,44000,High School,Low,2019/07/30,
+1582,Vihaan,59,MALE,Pune,44000,PhD,High,2019/08/19,23-04-2023
+1583,Riya,25,F,Chennai,42000,High School,Low,16-11-2020,03/06/2023
+1584,Sahil,60,Male,Chennai,41000,High School,Low,28/10/2019,
+1585,Jiya,54,FEMALE,Kolkata,31500,High School,Low,27/02/2021,2024/03/10
+1586,Rohan,59,M,Kochi,44500,PhD,Medium,10-08-2023,2024/08/17
+1587,Falak,41,female,Mumbai,40000,Master's,Low,03/05/2019,23/05/2023
+1588,Aadhya,32,FEMALE,Mumbai,53000,Bachelor's,Low,19/05/2021,
+1589,Jiya,28,FEMALE,Mumbai,49500,Bachelor's,High,02-05-2021,26-04-2024
+1590,Tara,39,F,Surat,43000,Master's,Low,07-03-2019,2023/01/12
+1591,Aisha,34,FEMALE,Kochi,33000,Bachelor's,Low,2019/07/08,09-05-2023
+1592,Aditya,53,MALE,Jaipur,33000,PhD,High,2023/08/22,2024/01/16
+1593,Rudra,39,Male,Mumbai,59000,High School,High,,12-07-2023
+1594,Aryan,54,M,Mumbai,56000,High School,,2020-09-24,2023/10/17
+1595,Manav,26,MALE,Nagpur,25500,High School,Low,,2024-05-03
+1596,Aryan,23,MALE,Nagpur,38000,Bachelor's,Low,24/10/2021,15/05/2023
+1597,Meera,61,FEMALE,Kolkata,51000,High School,High,2021-10-15,27/05/2023
+1598,Tara,38,Female,Bangalore,40000,Master's,Medium,2020/01/02,29/04/2024
+1599,Kabir,49,male,Mumbai,56500,PhD,High,21/01/2021,2024/11/29
+1600,Shaurya,21,Male,Nagpur,29000,High School,Low,2019/11/21,2023/08/17
+1601,Pari,52,F,Kochi,51000,Bachelor's,Medium,2020/02/13,21/11/2023
+1602,Kabir,20,MALE,Hyderabad,41000,Bachelor's,Low,2023/05/05,
+1603,Saanvi,150,FEMALE,Indore,17500,Bachelor's,Low,17/06/2019,2024/04/07
+1604,Kavya,23,F,Kochi,24500,Master's,Medium,2021/09/13,2023/06/14
+1605,Jiya,,FEMALE,Indore,39500,Bachelor's,High,17/02/2023,
+1606,Kritika,61,FEMALE,Kolkata,45000,PhD,Low,2022-08-01,
+1607,Shaurya,40,male,Ahmedabad,34000,High School,Medium,,2024-05-29
+1608,Kiara,40,FEMALE,Chandigarh,55500,Master's,Low,03-02-2021,2023/06/16
+1609,Divya,57,FEMALE,Kochi,24000,High School,Low,2019/02/03,
+1610,Divya,55,Female,Indore,,PhD,Medium,23-08-2019,08/05/2023
+1611,Mahi,63,FEMALE,Indore,38000,,Low,02/07/2020,29-02-2024
+CUST-1612A,Diya,,Female,Indore,24500,Master's,High,2020/05/10,2024/10/21
+1613,Ananya,42,FEMALE,Nagpur,29000,Bachelor's,Low,2019-09-16,06/02/2024
+1614,Arjun,19,M,Kolkata,,Bachelor's,,2019/06/11,
+1615,Navya,40,,Bangalore,60500,Master's,Low,2023/07/11,2024-11-06
+1616,Divya,24,Female,Delhi,44500,High School,Medium,2019-07-10,06-01-2024
+1617,Kian,58,Male,Delhi,50500,Master's,Medium,04/01/2020,
+1618,Isha,40,Female,Surat,58000,High School,High,07-09-2019,2024-07-02
+1619,Kritika,31,female,Mumbai,43000,Bachelor's,Medium,08/07/2019,29/10/2024
+1620,Zara,30,FEMALE,Pune,62000,Master's,Low,19/04/2023,2023/07/30
+1621,Samar,24,M,Jaipur,26500,Master's,High,09-07-2021,07/06/2024
+1622,Vihaan,,M,Bangalore,66500,Bachelor's,Low,31/01/2021,
+1623,Neil,47,Male,Jaipur,57500,High School,High,2020-03-21,2024-09-14
+1624,Navya,30,FEMALE,Ahmedabad,,High School,Medium,16-07-2021,2024/08/28
+1625,Ayaan,54,Male,Mumbai,20500,PhD,,2021-12-16,2023-01-17
+1626,Gauri,38,FEMALE,Indore,29500,Master's,Low,2022/11/27,2024-10-18
+1627,Diya,18,Female,Bangalore,600000,PhD,Low,22/07/2023,2024-07-04
+1628,Lavanya,25,F,Mumbai,57000,Master's,Medium,15-12-2019,03-05-2023
+1629,Ayaan,25,MALE,Hyderabad,47500,PhD,Medium,15-09-2021,
+1630,Aisha,33,F,Lucknow,42500,High School,Medium,27-01-2019,30-01-2024
+1631,Parth,63,M,Surat,39000,High School,Low,2021/02/28,09-06-2024
+1632,Kian,37,M,Chandigarh,49000,PhD,High,2019/02/03,2023/01/30
+1633,Kabir,23,M,Chennai,46000,PhD,Low,2021-01-27,
+1634,Sara,29,female,Jaipur,54000,PhD,Low,16-08-2019,
+1635,Riya,35,female,Ahmedabad,48000,PhD,Low,15/08/2023,25-06-2023
+1636,Manav,,M,Bangalore,64000,PhD,High,2020-10-07,2023/12/07
+1637,Kian,29,MALE,Pune,47000,High School,Medium,27-09-2021,2023-02-16
+1638,Gauri,50,,Bangalore,54000,High School,High,01/10/2021,2023/09/21
+1639,Dev,51,M,Indore,34000,PhD,High,2022-08-03,
+1640,Rudra,33,male,Jaipur,44500,Master's,Low,2021-02-12,2024/10/03
+1641,Myra,40,female,Kochi,39000,Master's,Low,08/12/2022,2023/05/06
+1642,Sara,18,F,Surat,49500,Bachelor's,Medium,22-09-2022,2023-10-23
+1643,Arjun,55,Male,Delhi,,PhD,Low,,
+1644,Riya,27,female,Nagpur,62000,High School,Low,27-12-2020,2024/10/14
+1645,Lavanya,37,Female,Jaipur,50500,Master's,Low,13/02/2020,
+1646,Dev,58,Male,Surat,42000,PhD,High,03/10/2020,2024/03/13
+1647,Veer,44,Male,Delhi,69500,Master's,High,18/09/2019,
+1648,Reyansh,51,Male,Surat,41000,Master's,High,2022-05-02,2024/08/02
+1649,Gauri,50,Female,Nagpur,15000,Bachelor's,Medium,15-10-2022,2023-11-15
+1650,Isha,27,female,Jaipur,28000,Bachelor's,Medium,,2024-02-05
+1651,Aditya,52,MALE,Pune,29500,High School,High,,
+1652,Yash,36,male,Lucknow,760.0,Master's,High,2021/08/08,2023-06-01
+1653,Aarav,20,MALE,Lucknow,34000,PhD,,2019/10/13,14/04/2024
+CUST-1654A,Rudra,51,male,Kolkata,42000,Bachelor's,High,30-07-2021,05/11/2024
+1655,Vihaan,56,MALE,Lucknow,58000,Master's,Medium,04/04/2022,2024-02-18
+CUST-1656A,Aadhya,24,female,Surat,50000,Bachelor's,High,04-08-2019,2024/01/29
+1657,Kabir,,M,Nagpur,,High School,Medium,2021/07/09,
+1658,Myra,61,female,Pune,49500,PhD,Low,2019-02-19,2023-05-24
+1659,Ishaan,64,Male,Kochi,54000,Bachelor's,High,22/10/2021,26-07-2024
+1660,Tanish,23,MALE,Bangalore,33500,High School,Low,2020-11-08,24/10/2023
+1661,Dev,54,male,Ahmedabad,48000,Master's,Low,2019/08/16,2023-09-27
+CUST-1662A,Ishaan,21,male,Bangalore,69000,Master's,High,08-05-2019,2024-07-31
+1663,Shaurya,23,MALE,Kochi,26500,Master's,Low,,27/10/2024
+1664,Aarav,19,male,Indore,52500,PhD,High,,2024/02/01
+1665,Om,46,MALE,Delhi,59000,Master's,Medium,29-04-2019,2024-08-25
+1666,Ishita,,Female,Nagpur,32000,High School,Low,05/10/2020,08/09/2023
+1667,Dhruv,34,Male,Hyderabad,57500,Master's,Low,11/09/2020,27-10-2023
+1668,Vivaan,44,Male,Nagpur,64000,High School,Low,02-12-2021,20-07-2024
+1669,Meera,62,female,Surat,48000,High School,,07/07/2020,2023-11-04
+C1670,Tara,,FEMALE,Kolkata,45000,,Low,2021-12-26,02/02/2023
+1671,Mahi,34,F,Indore,33500,High School,High,2021-05-25,2024/07/20
+1672,Kritika,52,F,Surat,36000,Master's,Medium,02-05-2020,15/10/2023
+C1673,Ishaan,20,M,Jaipur,50000,Master's,High,,07/11/2024
+1674,Pari,,FEMALE,Mumbai,39500,PhD,High,2019-04-30,16/09/2024
+1675,Parth,34,M,Chandigarh,49000,Bachelor's,High,2020-04-21,2023/07/08
+1676,Vivaan,34,male,Pune,,Master's,Low,2020-12-17,
+1677,Saanvi,41,female,Chandigarh,42500,PhD,Low,,04/01/2024
+1678,Tara,36,F,Jaipur,,Master's,High,,17/11/2023
+1679,Dhruv,42,Male,Indore,44500,High School,Low,2022/03/22,2023-05-05
+1680,Navya,54,FEMALE,Pune,56000,Master's,Medium,25-08-2019,24/02/2024
+C1681,Mahi,48,Female,Jaipur,52500,Bachelor's,Low,2020/05/16,12-11-2024
+1682,Navya,44,F,Kolkata,36000,PhD,Low,2023/11/30,
+1683,Manav,20,MALE,Chandigarh,45000,High School,High,14/05/2021,
+1684,Kabir,39,M,Jaipur,28500,High School,Medium,2021/04/17,22/03/2024
+1685,Gauri,50,female,Delhi,49500,,High,15/02/2021,04/06/2024
+1686,Yash,54,M,Hyderabad,54500,PhD,Medium,01-01-2020,
+1687,Kiara,54,female,Kochi,53000,Master's,Medium,17-06-2021,23/10/2023
+1688,Esha,24,female,Ahmedabad,34000,Bachelor's,,30-12-2023,
+1689,Dev,54,male,Kolkata,52500,PhD,Low,2023-09-27,2024/03/18
+1690,Gauri,40,F,Indore,,High School,High,2021-07-17,2023-11-19
+1691,Saanvi,60,F,Chandigarh,64500,,Low,2022/04/15,14-08-2023
+1692,Manav,26,male,Ahmedabad,50000,Bachelor's,,16-02-2022,2023/02/09
+1693,Divya,51,female,Lucknow,60500,Bachelor's,High,2023/06/20,2024/07/10
+1694,Kian,38,M,Ahmedabad,35500,PhD,High,2022/11/28,2024/05/10
+1695,Sara,31,Female,Kochi,29000,Master's,Medium,2023/07/15,2023-09-24
+1696,Divya,37,F,Surat,24500,Bachelor's,High,10/06/2022,
+1697,Ishita,63,Female,Chennai,66000,High School,High,01-01-2022,2024/07/02
+1698,Veer,44,male,Ahmedabad,53000,High School,,,2023/04/15
+1699,Dev,,M,Lucknow,37500,Master's,Medium,26/09/2019,2023-03-20
+1700,Diya,,FEMALE,Chandigarh,51500,High School,Medium,25/05/2022,2024-03-11
+1701,Sahil,54,Male,Surat,32500,Bachelor's,High,05-08-2020,2024/05/23
+1702,Pari,19,Female,Kolkata,71500,PhD,High,2019-10-22,
+1703,Bhavya,27,FEMALE,Kolkata,43500,Bachelor's,Medium,29/09/2020,07/02/2023
+1704,Myra,53,Female,Indore,40500,Bachelor's,High,2022-02-10,2024-03-11
+1705,Zara,28,female,Ahmedabad,53500,High School,Medium,2023/07/03,
+1706,Dev,36,Male,Nagpur,43000,Master's,Medium,06-12-2019,02-12-2024
+1707,Zara,48,F,Surat,48500,Bachelor's,High,21/01/2019,2023/06/03
+C1708,Shaurya,30,,Nagpur,370000,High School,High,18-12-2020,15-01-2023
+1709,Bhavya,41,FEMALE,Jaipur,30500,Bachelor's,Low,19/03/2020,2024-07-31
+1710,Navya,55,FEMALE,Jaipur,45500,PhD,Low,2020-03-19,21-09-2024
+1711,Ishaan,21,Male,Bangalore,82500,PhD,High,2020/05/08,2024/01/30
+1712,Zara,56,F,Chandigarh,64000,Master's,Medium,30/09/2021,2024/07/25
+1713,Tanish,60,M,Chennai,67000,Bachelor's,Low,22-01-2019,22-06-2024
+CUST-1714A,Veer,34,Male,Hyderabad,44000,High School,High,31/03/2019,2023-02-28
+1715,Tara,65,FEMALE,Chandigarh,36000,High School,,,06-06-2023
+1716,Samar,21,MALE,Surat,44500,High School,Medium,2020-02-02,19/11/2024
+1717,Ansh,,M,Lucknow,38500,High School,High,2020-06-30,15/02/2023
+1718,Kavya,18,FEMALE,Pune,65000,Master's,High,2021-08-06,
+1719,Navya,19,female,Indore,18500,,Medium,23-01-2023,28-11-2024
+1720,Meera,36,F,Bangalore,78500,PhD,Low,13-02-2020,2023/09/23
+1721,Rudra,51,M,Surat,44000,Bachelor's,,28-02-2021,2023/08/04
+1722,Saanvi,50,F,Hyderabad,45000,High School,Low,15/08/2021,
+1723,Tara,55,female,Chennai,36000,High School,Low,2023-11-16,01/05/2024
+1724,Mahi,28,female,Surat,26000,PhD,Medium,2022/11/23,29-04-2024
+1725,Yash,37,M,Mumbai,60000,High School,Medium,2021-03-31,20/06/2023
+1726,Bhavya,26,female,Lucknow,39000,High School,Low,2021/07/28,01-01-2023
+1727,Aryan,31,M,Kolkata,336000,Master's,,2019/07/24,08-02-2024
+1728,Falak,24,FEMALE,Kolkata,26500,Bachelor's,Medium,2023/08/06,2024-06-30
+1729,Aadhya,29,Female,Indore,23500,High School,Medium,15-08-2022,
+1730,Aryan,59,MALE,Bangalore,56000,PhD,Medium,,07-03-2024
+1731,Pari,40,Female,Lucknow,58000,PhD,Low,2019/09/21,2023/01/12
+1732,Hina,0,FEMALE,Pune,49000,PhD,Medium,25/09/2023,
+1733,Tanish,27,MALE,Mumbai,32000,Master's,High,2021/07/20,
+1734,Reyansh,56,MALE,Lucknow,35000,Master's,Low,02/01/2020,2023/01/18
+1735,Anika,52,Female,Nagpur,33500,High School,Low,01/06/2021,14-04-2024
+1736,Meera,41,FEMALE,Mumbai,17500,High School,High,28/07/2022,23-01-2023
+1737,Samar,25,Male,Indore,38500,Master's,High,2020-05-14,29-04-2024
+1738,Sahil,20,male,Jaipur,37000,Master's,Medium,2023/05/21,09/10/2023
+1739,Isha,19,F,Nagpur,45500,Master's,High,2022/04/19,2023/12/03
+1740,Navya,46,F,Bangalore,82000,Bachelor's,Low,2020/06/07,
+1741,Aisha,23,FEMALE,Ahmedabad,58500,Master's,Medium,2021-08-15,21-08-2024
+1742,Hina,,FEMALE,Pune,49000,Bachelor's,High,2022-05-28,
+1743,Saanvi,28,,Indore,25500,PhD,Medium,06/05/2021,2024-01-07
+1744,Zara,43,F,Ahmedabad,76000,PhD,Medium,24-11-2023,04/01/2023
+1745,Ira,44,Female,Kolkata,42500,Bachelor's,High,2019/06/14,29-11-2023
+1746,Anika,,Female,Jaipur,40000,Bachelor's,Low,20-01-2023,30-12-2024
+1747,Arjun,47,Male,Ahmedabad,44500,Bachelor's,Medium,16/08/2019,13-06-2023
+1748,Gauri,,Female,Lucknow,40500,PhD,Low,2020-06-16,2024-09-13
+1749,Sara,64,Female,Indore,,PhD,Low,01/10/2023,2024-08-16
+1750,Rohan,48,M,Ahmedabad,43500,High School,High,16/05/2020,2024/12/06
+1751,Krish,20,M,Indore,32000,High School,Medium,01/01/2023,12/06/2023
+1752,Rohan,62,M,Bangalore,53500,PhD,Low,,07-11-2023
+1753,Yash,28,MALE,Chennai,47500,Master's,Medium,20-09-2021,08-05-2024
+1754,Ishaan,31,Male,Ahmedabad,38500,High School,Medium,2022-03-12,20-06-2024
+1755,Vihaan,39,Male,Hyderabad,,High School,Low,06-12-2021,07-07-2023
+1756,Meera,35,female,Hyderabad,41500,High School,Low,05-05-2019,2024/08/22
+1757,Navya,22,Female,Ahmedabad,46500,PhD,High,2022/05/10,2023/01/10
+1758,Parth,55,MALE,Indore,36000,High School,Medium,05-10-2021,09/05/2024
+1759,Ishaan,53,male,Hyderabad,68000,Bachelor's,Medium,2021/11/09,2023-07-03
+1760,Mahi,39,Female,Lucknow,15000,Bachelor's,Low,24/10/2021,2024/06/27
+1761,Krish,38,male,Bangalore,73000,Bachelor's,High,2020/10/28,02/03/2024
+1762,Rudra,39,M,Nagpur,52000,PhD,High,2021-05-04,2024-02-18
+1763,Reyansh,19,male,Chandigarh,23000,Master's,Medium,,27/01/2024
+1764,Chhavi,35,female,Delhi,,PhD,High,2019/04/05,2024/12/24
+1765,Aadhya,24,,Mumbai,46000,Master's,Medium,2019-10-03,28-02-2024
+1766,Aisha,33,female,Chennai,43500,Master's,Medium,2019-10-15,17/12/2024
+1767,Manav,29,MALE,Chennai,31000,Master's,High,2022-05-21,
+1768,Raghav,150,MALE,Kochi,34500,PhD,High,2020/10/31,2023-12-08
+1769,Aisha,50,Female,Chandigarh,34500,PhD,Low,2023/04/21,2024/04/21
+1770,Dev,22,,Bangalore,81000,PhD,Medium,2019/01/14,
+1771,Tanish,61,M,Indore,50000,Bachelor's,High,08-12-2023,01-06-2023
+1772,Parth,40,Male,Delhi,70500,Bachelor's,Low,18/05/2021,11/08/2023
+CUST-1773A,Isha,42,FEMALE,Mumbai,58500,Bachelor's,Medium,11-02-2020,2024-08-27
+1774,Aditya,25,Male,Surat,32500,Master's,Low,26/06/2023,2024-06-04
+1775,Raghav,24,MALE,Chennai,41500,High School,High,2022-12-07,2024/02/04
+CUST-1776A,Meera,33,F,Bangalore,66000,Bachelor's,Medium,06-05-2019,07/11/2024
+1777,Kian,51,male,Bangalore,45500,Bachelor's,Low,2019/03/03,18/02/2024
+1778,Aarav,39,M,Mumbai,58500,,Medium,,04-09-2024
+1779,Aryan,22,male,Delhi,52000,PhD,High,2023-10-21,25/04/2024
+1780,Chhavi,24,F,Surat,41500,Bachelor's,High,20-10-2019,2023/04/08
+1781,Aadhya,64,female,Lucknow,46500,PhD,High,15/12/2023,15/05/2023
+1782,Gauri,42,Female,Lucknow,,Bachelor's,,07-09-2023,2023-11-27
+1783,Arjun,54,M,Kolkata,47500,Master's,Low,04/09/2022,10/07/2023
+1784,Esha,39,FEMALE,Indore,34500,Master's,Low,2019-09-16,2024-04-13
+1785,Kritika,46,female,Kolkata,56000,Bachelor's,High,17-09-2023,23/07/2023
+1786,Ishita,52,Female,Ahmedabad,32000,Bachelor's,Low,24-07-2022,2023/06/05
+1787,Dev,51,MALE,Kolkata,49500,Bachelor's,Medium,,23/07/2024
+1788,Meera,26,Female,Bangalore,67000,Bachelor's,Low,11-03-2021,2023-12-25
+1789,Lavanya,64,female,Nagpur,33500,Bachelor's,High,2020-11-01,17/06/2024
+1790,Aadhya,37,FEMALE,Chandigarh,52000,PhD,High,2020-07-11,2023-09-19
+1791,Uday,49,male,Indore,24000,High School,High,07/11/2023,2024/11/11
+1792,Meera,35,FEMALE,Chandigarh,59000,Master's,Medium,09/09/2023,2023-03-27
+1793,Bhavya,55,female,Kolkata,40000,PhD,High,2021/11/28,
+1794,Bhavya,33,Female,Chennai,41500,PhD,High,2020/12/12,2024-08-10
+1795,Esha,31,FEMALE,Jaipur,52500,Master's,Medium,2023/02/02,17/09/2023
+1796,Sahil,21,male,Chennai,39500,Master's,Low,28/04/2023,23-12-2023
+1797,Anika,65,F,Indore,22000,Master's,High,11/04/2021,16-10-2024
+1798,Rudra,46,MALE,Kochi,25500,Bachelor's,Low,27/09/2020,05-07-2024
+1799,Riya,56,female,Kochi,51500,Master's,Medium,23-03-2021,17/04/2023
+1800,Ayaan,46,,Chandigarh,,Master's,,24-11-2022,2023/08/20
